@@ -32,4 +32,4 @@ Le répertoire principal contient les fichiers de découpe (au format `.svg`, `.
 ## 🖼️ Image Future / Rendu Attendu
 Pour vous donner une idée du résultat final, voici un aperçu de ce à quoi ressembleront les modèles une fois assemblés :
 
-[Image du Cuboctaèdre et/ou du Dodécaèdre tronqué assemblé/rendu 3D]
+[img/polyhedrons-christmas.png]
