@@ -32,4 +32,4 @@ Le répertoire principal contient les fichiers de découpe (au format `.svg`, `.
 ## 🖼️ Image Future / Rendu Attendu
 Pour vous donner une idée du résultat final, voici un aperçu de ce à quoi ressembleront les modèles une fois assemblés :
 
-[img/polyhedrons-christmas.png]
+![Rendu des polyèdres assemblés pour le Noël Mathématique](img/polyhedrons-christmas.png)
